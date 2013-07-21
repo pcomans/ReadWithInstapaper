@@ -1,0 +1,6 @@
+<script>
+    chrome.browserAction.onClicked.addListener(function(tab) {
+    	console.log(tab.url.split( '/' )[2]);
+    	chrome.tabs.update(tab.id, {'url': 'http://www.instapaper.com/text?u='+encodeURIComponent(tab.url)});
+    });
+</script>
