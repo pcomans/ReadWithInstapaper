@@ -1,6 +1,6 @@
 {
    "name": "Read with Instapaper",
-   "description": "Instantly view any compatible web page in Instapaper's Text view.",
+   "description": "Instantly view any compatible web page in Instapaper's text view.",
    "version": "0.2",
    "background": {
        "scripts": ["background.js"]
@@ -15,10 +15,8 @@
       "16": "icon-16.png",
       "48": "icon-48.png"
    },
-   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+LyKQmSXXDA2/MEwaBtvCVtMSt78ATPAIR3EJuVb5/X35QWgUlkxS39qC5bvzv1GNOx+aOrnrbjLK3rvWIPWpViJBLL81jBD34tX32JgCNDmIEKswtLKxn91bufT/p7fF33nv4CveTnWs+fyj8ZRuu1CCUbrBLlVbtYuIqNllkQIDAQAB",
    "permissions": [
        "tabs"
    ],
-   "update_url": "http://clients2.google.com/service/update2/crx",
    "manifest_version": 2
 }
