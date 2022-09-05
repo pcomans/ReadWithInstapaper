@@ -1,7 +1,7 @@
 {
    "name": "Read with Instapaper",
    "description": "Instantly view any compatible web page in Instapaper's text view.",
-   "version": "0.3",
+   "version": "0.4",
    "background": {
        "service_worker": "background.js"
    },
